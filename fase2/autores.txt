@@ -1,0 +1,14 @@
+UC5: 
+    Número do aluno: 51027
+    Nome do aluno: Carlota Filipe
+    Horas gastas: 4
+    
+UC6: 
+    Número do aluno: 51087
+    Nome do aluno: Carolina Duque
+    Horas gastas: 4
+    
+UC7:
+    Número do aluno: 51073
+    Nome do aluno: Francisco Martins
+    Horas gastas: 4
